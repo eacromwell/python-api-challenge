@@ -1,15 +1,5 @@
 # python-api-challenge
-Module 6 Challenge
-Evan Cromwell
-Denver University Data Analytics Bootcamp
 
-
-
-
-
-
-
-Module 6 Challenge
 Module 6 Challenge Background                                                       
 
 •	Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
