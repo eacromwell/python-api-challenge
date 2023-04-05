@@ -12,10 +12,10 @@ This activity is broken down into two deliverables, WeatherPy and VacationPy.
 
 -	Included in WeatherPy is a relationship analysis comparison and linear regression model of the following:
 
-- Latitude vs Temperature
-- Latitude vs Humidity
-- Latitude vs Cloudiness
-- Latitude vs Wind Speed
+•	Latitude vs Temperature
+•	Latitude vs Humidity
+•	Latitude vs Cloudiness
+•	Latitude vs Wind Speed 
 
 -	Included in VacationPy is a map of the DataFrame generated in WeatherPy. Also included is map of hotels generated using an API call to Geoapify based on a DataFrame of Ideal Weather Conditions using the following conditions :
 
